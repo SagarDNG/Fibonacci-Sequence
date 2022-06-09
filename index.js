@@ -1,7 +1,7 @@
 let n1 = 0, n2 = 1, nextTerm, i;
 let n = parseInt(prompt("Enter the number of terms in Fibonacci Series"));
 
-if (!n) {
+while (!n) {
     alert('Please enter only Numbers');
     n = parseInt(prompt("Once again, Enter the number of terms in Fibonacci Series"));
 }
