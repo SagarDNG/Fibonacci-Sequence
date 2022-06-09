@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    margin: 12em auto;
+}
+
+.hide {
+    display: none;
+}
